@@ -1,6 +1,6 @@
 
 body {
-    background-color: #1D4221;
+    background-color: #11f0e5;
     color: white;
     font-family: "Science Gothic", sans-serif;
     display: flex;
@@ -11,7 +11,7 @@ body {
 }
 
 button {
-    background-color: #64A712;
+    background-color: #0cbae6;
     color: white;
     font-family: "Science Gothic", sans-serif;
 }
